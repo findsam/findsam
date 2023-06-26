@@ -1,4 +1,4 @@
-Ciao I'm Sam, a Mid-Level Fullstack Developer working fulltime at &Element in Essex. I like to build, deliver, and maintain anything from tiny-experiments to large-scale consumer products for a range of clients in different industries.
+👋 Ciao I'm Sam, a Mid-Level Fullstack Developer working fulltime at &Element in Essex. I like to build, deliver, and maintain anything from tiny-experiments to large-scale consumer products for a range of clients in different industries.
 
 🇬🇧 I speak both English and Italian feel free to contact me using either language at: 
 - sam@and-element.com
