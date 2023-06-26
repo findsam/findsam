@@ -2,6 +2,7 @@ Ciao I'm Sam, a Mid-Level Fullstack Developer working fulltime at &Element in Es
 
 I speak both English and Italian feel free to contact me using either language at: 
 - sam@and-element.com
+  
 Contattatemi con la lingua che più vi è comodo, in italiano o in inglese:
 - sam@and-element.com
 
