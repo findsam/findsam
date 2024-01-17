@@ -1,5 +1,5 @@
 sam@and-element.com -
-[Portfolio](https://findsam.dev/)
+[portfolio](https://findsam.dev/)
 
 
 
