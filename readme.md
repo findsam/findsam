@@ -2,7 +2,7 @@
 
 Ciao, find me @
 sam@and-element.com -
-[portfolio](https://findsam.dev/)
+[findsam.dev](https://findsam.dev/)
 
 
 
