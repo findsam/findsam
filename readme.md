@@ -2,7 +2,7 @@
 
 Ciao I'm Sam - I build using Typescript, React, Rust, Node and Go.
 
-Find me @ me@findsam.dev || sam@and-element.com -
+Find me @ me@findsam.dev || sam@and-element.com ||
 [findsam.dev](https://findsam.dev/)
 
 
