@@ -5,7 +5,7 @@ Ciao I'm Sam - I build using Typescript, React, Rust, Node and Go.
 I speak both English and Italian feel free to contact me using either language at:\
 Contattatemi con la lingua che più vi è comodo, in italiano o in inglese:
 
-me@findsam.dev || sam@and-element.com ||
+me@findsam.dev ||
 [findsam.dev](https://findsam.dev/)
 
 
