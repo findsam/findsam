@@ -5,6 +5,6 @@ Contattatemi con la lingua che preferite, in italiano o in inglese:
 
 - email: me@findsam.dev
 - portfolio: https://findsam.dev
-- cv: as per request
+
 
 
