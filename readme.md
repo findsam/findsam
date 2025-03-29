@@ -1,7 +1,7 @@
-Contattatemi con la lingua che preferite, in italiano o in inglese:
+Ciao, I'm Sam. SWE at GC Group in Edinburgh.
 
-sam@thegcgroup.co.uk\
 me@findsam.dev\
+sam@thegcgroup.co.uk\
 [findsam.dev](https://findsam.dev)
 
 
