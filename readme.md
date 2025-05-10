@@ -1,4 +1,4 @@
-Ciao, I'm Sam. Staff Engineer at GC Group in Edinburgh.
+Sam — Staff Engineer @ GC Group Ltd.
 
 me@findsam.dev\
 sam@thegcgroup.co.uk\
