@@ -1,4 +1,4 @@
-Sam — Staff Engineer @ GC Group Ltd.
+Sam — SWE @ GC Group Ltd.
 
 me@findsam.dev\
 sam@thegcgroup.co.uk\
