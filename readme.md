@@ -1,4 +1,4 @@
 Sam — SWE
 
-me@findsam.dev\
-[findsam.dev](https://findsam.dev)
+E: me@findsam.dev\
+W: [findsam.dev](https://findsam.dev)
