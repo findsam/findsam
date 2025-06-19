@@ -1,4 +1,3 @@
-(26) sam, native engineer at ??? 
-
+(26) sam, native engineer
 me@findsam.dev\
 [findsam.dev](https://findsam.dev)
